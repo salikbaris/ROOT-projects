@@ -5,3 +5,5 @@ Some files have the line:
 ```#include <all_headers.h>```
 
 all_headers.h is a file that includes all paths for headers that come with ROOT, for my own convenience.
+
+Source files have the extension .C, but they are C++ files. The compiler I used, which I believe to be Cling or g++, compiled .C files as C++.
